@@ -11,14 +11,14 @@ solutions from the foundation, ensuring a more secure digital world.
 
 ### Our Projects
 
-#### [`webhsm`](https://github.com/hyperifyio/webhsm)
+#### [`webhsm`](https://github.com/hyperifyio/webhsm) -- SoftHSM for the web
 
 `webhsm` is at the core of our security ecosystem, providing a robust 
 foundation for secure cryptographic operations within web applications. This 
 project is crucial for ensuring sensitive operations are handled securely, 
 establishing `webhsm` as a cornerstone of web application security.
 
-#### Introducing [`webrouter`](https://github.com/hyperifyio/webrouter)
+#### [`webrouter`](https://github.com/hyperifyio/webrouter) -- Network router for the web
 
 Alongside `webhsm`, our upcoming project `webrouter` is set to revolutionize 
 the management of raw TCP connections in web environments. By employing a 
@@ -26,7 +26,7 @@ WebSocket-based routing mechanism, `webrouter` facilitates the use of custom
 TLS connections, enabling the deployment of secure, tailored mTLS connections 
 for custom software projects.
 
-#### [`gocertcenter`](https://github.com/hyperifyio/gocertcenter)
+#### [`gocertcenter`](https://github.com/hyperifyio/gocertcenter) -- Full stack PKI management solution
 
 Another project, `gocertcenter`, is a Certificate Management Microservice 
 (CMM) designed for the specialized needs of digital certificate management. 
