@@ -11,6 +11,11 @@ solutions from the foundation, ensuring a more secure digital world.
 
 ### Our Projects
 
+#### [`govm`](https://github.com/hyperifyio/project-govm) -- Virtual Manager for Cloud
+
+`govm` provides a JSON-based REST API for managing virtual servers over libvirt interface 
+and also a ReactJS frontend which uses it.
+
 #### [`webhsm`](https://github.com/hyperifyio/webhsm) -- SoftHSM for the web
 
 `webhsm` is at the core of our security ecosystem, providing a robust 
